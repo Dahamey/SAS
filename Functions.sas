@@ -43,4 +43,4 @@ DATA storm_damage2;
 RUN;
 
 
-* Character functions : check out ;
+* Character functions : check out "https://github.com/Dahamey/SAS/blob/main/Functions.pdf";
