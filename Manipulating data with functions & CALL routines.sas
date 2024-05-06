@@ -1,13 +1,13 @@
 /*Manipulating Data With functions, specifying column lists*/
 
-DATA quiz_ummary;
+DATA quiz_summary;
 	SET pg2.class_quiz;
 	Name = UPCASE(Name); * Younes ---> YOUNES;
 	AvgQuiz = MEAN(of Q:); *mean(quiz1, quiz2, quiz3, quiz4, quiz5);
 	FORMAT Quiz1--AvgQuiz 3.1; *fomatting all the columns in the physical range of the columns from left (strating with Quiz1) to right(ending with AvgQuiz) to 3.1;
 RUN;
 
-DATA quiz_ummary;
+DATA quiz_summary;
 	SET pg2.class_quiz;
 	Name = UPCASE(Name); * Younes ---> YOUNES;
 	AvgQuiz = MEAN(of Q:); *mean(quiz1, quiz2, quiz3, quiz4, quiz5);
