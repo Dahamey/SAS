@@ -43,4 +43,19 @@ DATA storm_damage2;
 RUN;
 
 
-* Character functions : check out "https://github.com/Dahamey/SAS/blob/main/Functions.pdf";
+* Character functions : check out ;
+
+
+* Conveting existing character columns to numeric columns;
+DATA stocks2;
+	SET pg2.stocks2(rename = (Volume = CharVolume)); *old_name=new_name;
+	Date2 = input(Date, date9.); *converts char column 'Date' to a num column 'Date2';
+	Volume = input(charVolume, comma12.);  *converts char column 'CharVolume' to a num column 'Volume';
+	DROP charVolume;
+RUN;
+
+* COnverting existing numeric columns to character columns;
+DATA stocks3;
+	SET stocks2;
+	Day = PUT(Date2, best.);
+RUN;
