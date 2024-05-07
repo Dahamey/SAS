@@ -1,0 +1,379 @@
+﻿ParkName,CampType,CampCount
+Acadia NP,Tent,"152,811"
+Acadia NP,RV,"46,629"
+Acadia NP,Backcountry,"1,324"
+Amistad NRA,Tent,38
+Amistad NRA,RV,"8,265"
+Amistad NRA,Backcountry,0
+Aniakchak NM & PRES,Tent,0
+Aniakchak NM & PRES,RV,0
+Aniakchak NM & PRES,Backcountry,235
+Apostle Islands NL,Tent,0
+Apostle Islands NL,RV,0
+Apostle Islands NL,Backcountry,"11,220"
+Arches NP,Tent,"28,046"
+Arches NP,RV,"18,658"
+Arches NP,Backcountry,"1,174"
+Assateague Island NS,Tent,"40,826"
+Assateague Island NS,RV,"20,735"
+Assateague Island NS,Backcountry,973
+Badlands NP,Tent,"7,934"
+Badlands NP,RV,"1,500"
+Badlands NP,Backcountry,"1,410"
+Bandelier NM,Tent,"5,704"
+Bandelier NM,RV,"4,164"
+Bandelier NM,Backcountry,665
+Bering Land Bridge NPRES,Tent,0
+Bering Land Bridge NPRES,RV,0
+Bering Land Bridge NPRES,Backcountry,"1,123"
+Big Bend NP,Tent,"64,593"
+Big Bend NP,RV,"27,385"
+Big Bend NP,Backcountry,"41,793"
+Big Cypress NPRES,Tent,"2,762"
+Big Cypress NPRES,RV,"11,665"
+Big Cypress NPRES,Backcountry,"3,287"
+Big South Fork NRRA,Tent,"7,649"
+Big South Fork NRRA,RV,"32,666"
+Big South Fork NRRA,Backcountry,"12,794"
+Big Thicket NPRES,Tent,0
+Big Thicket NPRES,RV,0
+Big Thicket NPRES,Backcountry,"3,339"
+Bighorn Canyon NRA,Tent,"2,922"
+Bighorn Canyon NRA,RV,"7,002"
+Bighorn Canyon NRA,Backcountry,0
+Biscayne NP,Tent,"2,522"
+Biscayne NP,RV,0
+Biscayne NP,Backcountry,0
+Black Canyon of the Gunnison NP,Tent,"19,070"
+Black Canyon of the Gunnison NP,RV,"11,878"
+Black Canyon of the Gunnison NP,Backcountry,"1,936"
+Blue Ridge PKWY,Tent,"69,923"
+Blue Ridge PKWY,RV,"40,382"
+Blue Ridge PKWY,Backcountry,757
+Bryce Canyon NP,Tent,"38,192"
+Bryce Canyon NP,RV,"62,768"
+Bryce Canyon NP,Backcountry,"2,684"
+Buffalo NR,Tent,"33,756"
+Buffalo NR,RV,"13,078"
+Buffalo NR,Backcountry,"38,297"
+Canaveral NS,Tent,0
+Canaveral NS,RV,0
+Canaveral NS,Backcountry,"2,636"
+Canyon de Chelly NM,Tent,0
+Canyon de Chelly NM,RV,0
+Canyon de Chelly NM,Backcountry,745
+Canyonlands NP,Tent,"13,513"
+Canyonlands NP,RV,"8,288"
+Canyonlands NP,Backcountry,"86,227"
+Cape Hatteras NS,Tent,"41,062"
+Cape Hatteras NS,RV,"25,000"
+Cape Hatteras NS,Backcountry,0
+Cape Krusenstern NM,Tent,0
+Cape Krusenstern NM,RV,0
+Cape Krusenstern NM,Backcountry,"6,375"
+Cape Lookout NS,Tent,0
+Cape Lookout NS,RV,0
+Cape Lookout NS,Backcountry,"37,197"
+Capitol Reef NP,Tent,"19,507"
+Capitol Reef NP,RV,"20,917"
+Capitol Reef NP,Backcountry,"2,996"
+Carlsbad Caverns NP,Tent,0
+Carlsbad Caverns NP,RV,0
+Carlsbad Caverns NP,Backcountry,251
+Catoctin Mountain Park,Tent,"6,558"
+Catoctin Mountain Park,RV,752
+Catoctin Mountain Park,Backcountry,483
+Cedar Breaks NM,Tent,"2,501"
+Cedar Breaks NM,RV,"1,776"
+Cedar Breaks NM,Backcountry,0
+Chaco Culture NHP,Tent,"13,242"
+Chaco Culture NHP,RV,"7,671"
+Chaco Culture NHP,Backcountry,0
+Channel Islands NP,Tent,0
+Channel Islands NP,RV,0
+Channel Islands NP,Backcountry,"22,885"
+Chesapeake & Ohio Canal NHP,Tent,"3,724"
+Chesapeake & Ohio Canal NHP,RV,0
+Chesapeake & Ohio Canal NHP,Backcountry,0
+Chickasaw NRA,Tent,"91,260"
+Chickasaw NRA,RV,"57,773"
+Chickasaw NRA,Backcountry,0
+Chiricahua NM,Tent,"5,966"
+Chiricahua NM,RV,"5,708"
+Chiricahua NM,Backcountry,0
+Colorado NM,Tent,"16,202"
+Colorado NM,RV,"14,601"
+Colorado NM,Backcountry,358
+Congaree NP,Tent,0
+Congaree NP,RV,0
+Congaree NP,Backcountry,286
+Crater Lake NP,Tent,"6,280"
+Crater Lake NP,RV,0
+Crater Lake NP,Backcountry,"4,706"
+Craters of the Moon NM,Tent,"3,349"
+Craters of the Moon NM,RV,"5,319"
+Craters of the Moon NM,Backcountry,359
+Cumberland Gap NHP,Tent,"2,311"
+Cumberland Gap NHP,RV,"10,180"
+Cumberland Gap NHP,Backcountry,"1,282"
+Cumberland Island NS,Tent,"11,839"
+Cumberland Island NS,RV,0
+Cumberland Island NS,Backcountry,"7,324"
+Curecanti NRA,Tent,"18,312"
+Curecanti NRA,RV,"36,220"
+Curecanti NRA,Backcountry,731
+Death Valley NP,Tent,"97,443"
+Death Valley NP,RV,"106,399"
+Death Valley NP,Backcountry,0
+Delaware Water Gap NRA,Tent,0
+Delaware Water Gap NRA,RV,0
+Delaware Water Gap NRA,Backcountry,"19,752"
+Denali NP & PRES,Tent,"50,269"
+Denali NP & PRES,RV,"21,257"
+Denali NP & PRES,Backcountry,"49,309"
+Devils Tower NM,Tent,"10,850"
+Devils Tower NM,RV,"6,533"
+Devils Tower NM,Backcountry,0
+Dinosaur NM,Tent,"17,207"
+Dinosaur NM,RV,"13,604"
+Dinosaur NM,Backcountry,"34,591"
+Dry Tortugas NP,Tent,"5,934"
+Dry Tortugas NP,RV,0
+Dry Tortugas NP,Backcountry,0
+El Morro NM,Tent,"1,704"
+El Morro NM,RV,"1,291"
+El Morro NM,Backcountry,0
+Everglades NP,Tent,"8,410"
+Everglades NP,RV,"10,799"
+Everglades NP,Backcountry,"12,726"
+Fire Island NS,Tent,0
+Fire Island NS,RV,0
+Fire Island NS,Backcountry,"1,546"
+Gates of the Arctic NP & PRES,Tent,0
+Gates of the Arctic NP & PRES,RV,0
+Gates of the Arctic NP & PRES,Backcountry,"7,971"
+Gauley River NRA,Tent,"3,449"
+Gauley River NRA,RV,668
+Gauley River NRA,Backcountry,0
+Glacier Bay NP & PRES,Tent,908
+Glacier Bay NP & PRES,RV,0
+Glacier Bay NP & PRES,Backcountry,"6,161"
+Glacier NP,Tent,"136,599"
+Glacier NP,RV,"126,933"
+Glacier NP,Backcountry,"38,421"
+Glen Canyon NRA,Tent,"6,133"
+Glen Canyon NRA,RV,"8,109"
+Glen Canyon NRA,Backcountry,"36,871"
+Golden Gate NRA,Tent,"4,337"
+Golden Gate NRA,RV,0
+Golden Gate NRA,Backcountry,"1,269"
+Grand Canyon NP,Tent,"206,626"
+Grand Canyon NP,RV,"88,600"
+Grand Canyon NP,Backcountry,"330,703"
+Grand Portage NM,Tent,0
+Grand Portage NM,RV,0
+Grand Portage NM,Backcountry,36
+Grand Teton NP,Tent,0
+Grand Teton NP,RV,0
+Grand Teton NP,Backcountry,"36,206"
+Great Basin NP,Tent,"26,743"
+Great Basin NP,RV,"14,748"
+Great Basin NP,Backcountry,"1,067"
+Great Sand Dunes NP & PRES,Tent,"30,757"
+Great Sand Dunes NP & PRES,RV,"17,532"
+Great Sand Dunes NP & PRES,Backcountry,"4,508"
+Great Smoky Mountains NP,Tent,"190,574"
+Great Smoky Mountains NP,RV,"111,680"
+Great Smoky Mountains NP,Backcountry,"109,349"
+Greenbelt Park,Tent,"9,575"
+Greenbelt Park,RV,"7,489"
+Greenbelt Park,Backcountry,0
+Guadalupe Mountains NP,Tent,"10,654"
+Guadalupe Mountains NP,RV,"6,254"
+Guadalupe Mountains NP,Backcountry,"2,954"
+Gulf Islands NS,Tent,"37,870"
+Gulf Islands NS,RV,"140,712"
+Gulf Islands NS,Backcountry,119
+Haleakala NP,Tent,"8,332"
+Haleakala NP,RV,0
+Haleakala NP,Backcountry,"2,392"
+Hawaii Volcanoes NP,Tent,"1,697"
+Hawaii Volcanoes NP,RV,0
+Hawaii Volcanoes NP,Backcountry,"5,178"
+Hot Springs NP,Tent,"3,706"
+Hot Springs NP,RV,"20,315"
+Hot Springs NP,Backcountry,0
+Hovenweep NM,Tent,"1,184"
+Hovenweep NM,RV,"1,211"
+Hovenweep NM,Backcountry,0
+Indiana Dunes NL,Tent,"16,716"
+Indiana Dunes NL,RV,"3,790"
+Indiana Dunes NL,Backcountry,0
+Isle Royale NP,Tent,"3,160"
+Isle Royale NP,RV,0
+Isle Royale NP,Backcountry,"22,604"
+"John D. Rockefeller, Jr. MEM PKWY",Tent,0
+"John D. Rockefeller, Jr. MEM PKWY",RV,0
+"John D. Rockefeller, Jr. MEM PKWY",Backcountry,"1,572"
+Joshua Tree NP,Tent,"232,964"
+Joshua Tree NP,RV,"65,409"
+Joshua Tree NP,Backcountry,"21,195"
+Katmai NP & PRES,Tent,"2,098"
+Katmai NP & PRES,RV,0
+Katmai NP & PRES,Backcountry,483
+Kenai Fjords NP,Tent,"1,514"
+Kenai Fjords NP,RV,0
+Kenai Fjords NP,Backcountry,648
+Kings Canyon NP,Tent,"110,490"
+Kings Canyon NP,RV,"32,686"
+Kings Canyon NP,Backcountry,"12,046"
+Kings Mountain NMP,Tent,0
+Kings Mountain NMP,RV,0
+Kings Mountain NMP,Backcountry,79
+Klondike Gold Rush NHP Alaska,Tent,"2,449"
+Klondike Gold Rush NHP Alaska,RV,0
+Klondike Gold Rush NHP Alaska,Backcountry,"5,061"
+Kobuk Valley NP,Tent,0
+Kobuk Valley NP,RV,0
+Kobuk Valley NP,Backcountry,"7,050"
+Lake Chelan NRA,Tent,0
+Lake Chelan NRA,RV,0
+Lake Chelan NRA,Backcountry,"6,314"
+Lake Clark NP & PRES,Tent,0
+Lake Clark NP & PRES,RV,0
+Lake Clark NP & PRES,Backcountry,"6,486"
+Lake Mead NRA,Tent,"98,223"
+Lake Mead NRA,RV,"125,008"
+Lake Mead NRA,Backcountry,"155,433"
+Lake Meredith NRA,Tent,"6,961"
+Lake Meredith NRA,RV,"31,132"
+Lake Meredith NRA,Backcountry,0
+Lake Roosevelt NRA,Tent,"45,721"
+Lake Roosevelt NRA,RV,"49,827"
+Lake Roosevelt NRA,Backcountry,"3,029"
+Lassen Volcanic NP,Tent,"59,742"
+Lassen Volcanic NP,RV,"27,633"
+Lassen Volcanic NP,Backcountry,"9,057"
+Lava Beds NM,Tent,"8,229"
+Lava Beds NM,RV,"2,128"
+Lava Beds NM,Backcountry,49
+Mammoth Cave NP,Tent,"39,636"
+Mammoth Cave NP,RV,"16,248"
+Mammoth Cave NP,Backcountry,"5,088"
+Mesa Verde NP,Tent,"44,925"
+Mesa Verde NP,RV,"12,073"
+Mesa Verde NP,Backcountry,0
+Mojave NPRES,Tent,"1,654"
+Mojave NPRES,RV,"1,308"
+Mojave NPRES,Backcountry,0
+Moores Creek NB,Tent,0
+Moores Creek NB,RV,0
+Moores Creek NB,Backcountry,207
+Mount Rainier NP,Tent,"64,265"
+Mount Rainier NP,RV,"28,981"
+Mount Rainier NP,Backcountry,"57,636"
+Natchez Trace PKWY,Tent,"5,907"
+Natchez Trace PKWY,RV,"10,038"
+Natchez Trace PKWY,Backcountry,0
+Natural Bridges NM,Tent,"3,902"
+Natural Bridges NM,RV,"3,113"
+Natural Bridges NM,Backcountry,0
+Navajo NM,Tent,"1,483"
+Navajo NM,RV,"1,531"
+Navajo NM,Backcountry,363
+New River Gorge NR,Tent,"4,596"
+New River Gorge NR,RV,895
+New River Gorge NR,Backcountry,0
+Noatak NPRES,Tent,0
+Noatak NPRES,RV,0
+Noatak NPRES,Backcountry,"5,500"
+North Cascades NP,Tent,0
+North Cascades NP,RV,0
+North Cascades NP,Backcountry,"25,516"
+Obed W&SR,Tent,"4,464"
+Obed W&SR,RV,0
+Obed W&SR,Backcountry,487
+Olympic NP,Tent,"134,871"
+Olympic NP,RV,"64,582"
+Olympic NP,Backcountry,"100,347"
+Organ Pipe Cactus NM,Tent,"7,188"
+Organ Pipe Cactus NM,RV,"19,926"
+Organ Pipe Cactus NM,Backcountry,64
+Ozark NSR,Tent,"51,696"
+Ozark NSR,RV,"22,272"
+Ozark NSR,Backcountry,"13,184"
+Padre Island NS,Tent,"19,917"
+Padre Island NS,RV,"33,263"
+Padre Island NS,Backcountry,"13,632"
+Petrified Forest NP,Tent,0
+Petrified Forest NP,RV,0
+Petrified Forest NP,Backcountry,486
+Pictured Rocks NL,Tent,"16,825"
+Pictured Rocks NL,RV,"5,626"
+Pictured Rocks NL,Backcountry,"21,020"
+Point Reyes NS,Tent,0
+Point Reyes NS,RV,0
+Point Reyes NS,Backcountry,"40,363"
+Prince William Forest Park,Tent,"22,159"
+Prince William Forest Park,RV,"1,407"
+Prince William Forest Park,Backcountry,346
+Redwood NP,Tent,"4,979"
+Redwood NP,RV,0
+Redwood NP,Backcountry,"4,681"
+Rio Grande W&SR,Tent,0
+Rio Grande W&SR,RV,0
+Rio Grande W&SR,Backcountry,"1,894"
+Rocky Mountain NP,Tent,"120,981"
+Rocky Mountain NP,RV,"57,321"
+Rocky Mountain NP,Backcountry,"45,223"
+Ross Lake NRA,Tent,"26,307"
+Ross Lake NRA,RV,"9,684"
+Ross Lake NRA,Backcountry,"25,153"
+Saguaro NP,Tent,0
+Saguaro NP,RV,0
+Saguaro NP,Backcountry,"1,868"
+Saint Croix NSR,Tent,0
+Saint Croix NSR,RV,0
+Saint Croix NSR,Backcountry,"91,544"
+Santa Monica Mountains NRA,Tent,0
+Santa Monica Mountains NRA,RV,0
+Santa Monica Mountains NRA,Backcountry,144
+Sequoia NP,Tent,"149,714"
+Sequoia NP,RV,"69,732"
+Sequoia NP,Backcountry,"36,247"
+Shenandoah NP,Tent,"129,594"
+Shenandoah NP,RV,"51,255"
+Shenandoah NP,Backcountry,"48,825"
+Sleeping Bear Dunes NL,Tent,"63,057"
+Sleeping Bear Dunes NL,RV,"50,267"
+Sleeping Bear Dunes NL,Backcountry,"14,732"
+Theodore Roosevelt NP,Tent,"14,835"
+Theodore Roosevelt NP,RV,"17,730"
+Theodore Roosevelt NP,Backcountry,232
+Voyageurs NP,Tent,0
+Voyageurs NP,RV,0
+Voyageurs NP,Backcountry,"46,451"
+Whiskeytown NRA,Tent,0
+Whiskeytown NRA,RV,"2,378"
+Whiskeytown NRA,Backcountry,"5,583"
+White Sands NM,Tent,0
+White Sands NM,RV,0
+White Sands NM,Backcountry,"4,331"
+Wind Cave NP,Tent,"4,093"
+Wind Cave NP,RV,"4,401"
+Wind Cave NP,Backcountry,493
+Wupatki NM,Tent,0
+Wupatki NM,RV,0
+Wupatki NM,Backcountry,8
+Yellowstone NP,Tent,"101,639"
+Yellowstone NP,RV,"68,991"
+Yellowstone NP,Backcountry,"44,663"
+Yosemite NP,Tent,"490,431"
+Yosemite NP,RV,"376,744"
+Yosemite NP,Backcountry,"216,989"
+Yukon-Charley Rivers NPRES,Tent,0
+Yukon-Charley Rivers NPRES,RV,0
+Yukon-Charley Rivers NPRES,Backcountry,"3,063"
+Zion NP,Tent,"137,442"
+Zion NP,RV,"70,728"
+Zion NP,Backcountry,"28,248"
