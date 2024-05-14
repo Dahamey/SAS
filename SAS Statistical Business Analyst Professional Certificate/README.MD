@@ -1,3 +1,9 @@
+# SAS/SAS Statistical Business Analyst Professional Certificate
+
+This certificate program offered a focused exploration of statistical analysis techniques using SAS software. Key chapters covered hypothesis testing, regression modeling fundamentals, and predictive modeling with logistic regression.
+
+
+
 Program Files
 The EST142 folder contains three subfolders:
 
