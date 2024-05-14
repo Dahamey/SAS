@@ -4,7 +4,8 @@ This certificate program offered a focused exploration of statistical analysis t
 
 
 
-Program Files
+Program Files :
+
 The EST142 folder contains three subfolders:
 
 data - contains the SAS data sets needed to run the demos and practices.
